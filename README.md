@@ -19,7 +19,7 @@ This repo contains the supported code and configuration files, from the followin
   | ConvNeXt-B-YOLOX | 48.8 | 83.9 | 53.6 | 30.96 | 110.48 | 25.74 | |
   | Swin-B-YOLOX | 55.1  |87.7| 64.9|27.57 | 109.65| 30.93 | |
   | ConvNeXt-L-YOLOX | 48.9 |84.4|51.0|17.04| 247.80| 57.67 | |
-  | Swin-L-YOLOX  | 55.6 |87.1|65.5|15.64| 246.56| 69.52 | |
+  | Swin-L-YOLOX  | 55.6 |87.1|65.5|15.64| 246.56| 69.52 | [github](https://github.com/maifatai/Particle-cluster-detection/releases/tag/v1.0/swin_l_yolox.pth)|
   
 ### Two-stage model
 
