@@ -19,7 +19,7 @@ This repo contains the supported code and configuration files, from the followin
   | ConvNeXt-B-YOLOX | 48.8 | 83.9 | 53.6 | 30.96 | 110.48 | 25.74 | |
   | Swin-B-YOLOX | 55.1  |87.7| 64.9|27.57 | 109.65| 30.93 | |
   | ConvNeXt-L-YOLOX | 48.9 |84.4|51.0|17.04| 247.80| 57.67 | |
-  | Swin-L-YOLOX  | 55.6 |87.1|65.5|15.64| 246.56| 69.52 | [github](https://github.com/maifatai/Particle-cluster-detection/releases/tag/v1.0/swin_l_yolox.pth)|
+  | Swin-L-YOLOX  | 55.6 |87.1|65.5|15.64| 246.56| 69.52 | [github](https://github.com/maifatai/Particle-cluster-detection/releases/download/v1.0/swin_l_yolox.pth)|
   
 ### Two-stage model
 
@@ -32,7 +32,7 @@ This repo contains the supported code and configuration files, from the followin
   | Swin-B-RCNN | 62.7 |90.1|81.1|14.66  | 104.03| 45.85 |  |
   | ConvNeXt-B-RCNN | 65.4  |90.3|82.0|16.31  |104.86| 40.65 |  | 
   |  Swin-L-RCNN | 66.7 |92.8|84.8|9.34 | 212.50| 77.46 |  |
-  |  ConvNeXt-L-RCNN  | 68.0 |93.4|86.2 |10.04| 213.74|65.61 |  |
+  |  ConvNeXt-L-RCNN  | 68.0 |93.4|86.2 |10.04| 213.74|65.61 | [github](https://github.com/maifatai/Particle-cluster-detection/releases/download/v1.0/convnext_l_rcnn.zip.001) [github](https://github.com/maifatai/Particle-cluster-detection/releases/download/v1.0/convnext_l_rcnn.zip.002) |
 
 
 
