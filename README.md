@@ -10,7 +10,7 @@ This repo contains the supported code and configuration files, from the followin
 
 ### One-stage model
 
-   | Backbone | AP $(\%)$ | AP $_{50}(\%)$ | AP $_{75}(\%)$ | FPS | Params.(M) | FLOPs(G) | model |
+   | Backbone | AP $(%)$ | AP $_{50}(%)$ | AP $_{75}(%)$ | FPS | Params.(M) | FLOPs(G) | model |
    | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
    | ConvNeXt-T-YOLOX | 49.2 | 85.0 | 54.0 | 57.94 | 38.44 |  8.64 |  |
    | Swin-T-YOLOX | 57.2 | 90.0 | 66.7 | 41.47 | 38.12 | 9.93 | |
@@ -23,7 +23,7 @@ This repo contains the supported code and configuration files, from the followin
   
 ### Two-stage model
 
-  | Backbone | AP $(\%)$ | AP $_{50}(\%)$ | AP $_{75}(\%)$ | FPS | Params.(M) | FLOPs(G) | model |
+  | Backbone | AP $(%)$ | AP $_{50}(%)$ | AP $_{75}(%)$ | FPS | Params.(M) | FLOPs(G) | model |
   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
   |  Swin-T-RCNN | 64.3|90.8|82.6|25.18  | 44.72| 27.65 |  |
   |  ConvNeXt-T-RCNN | 66.4 |91.9|83.9|27.24  |45.03| 26.36 |  |
